@@ -1,0 +1,4 @@
+username: badrigaire
+password: badri12345
+
+url = mongodb+srv://badrigaire:badri12345@cluster0.wgih4uk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
